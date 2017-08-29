@@ -1,0 +1,4 @@
+﻿  Game.cpp
+Game.cpp(51): warning C4930: 'Wall wall(void)': prototyped function not called (was a variable definition intended?)
+  LegoLand.vcxproj -> c:\Users\Sam\documents\visual studio 2015\Projects\LegoLand\x64\Debug\LegoLand.exe
+  LegoLand.vcxproj -> c:\Users\Sam\documents\visual studio 2015\Projects\LegoLand\x64\Debug\LegoLand.pdb (Full PDB)
